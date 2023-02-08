@@ -69,7 +69,7 @@ global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
 //👇 Welcome Mesaage
@@ -150,7 +150,7 @@ global.APIKeys = {
 }
 
 global.thumb = fs.readFileSync('./Media/image/Nilu.jpg')
-global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
+global.alivelogo = `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 global.imgalive = fs.readFileSync('./Media/image/Nilu.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
