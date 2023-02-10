@@ -7,11 +7,11 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
-  
+  npm install chalk
   
 COPY package.json .
 
-RUN npm install chalk
+RUN npm install 
 
 COPY . .
 
