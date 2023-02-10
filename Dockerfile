@@ -11,7 +11,7 @@ RUN apt-get update && \
   
 COPY package.json .
 
-RUN npm install -g npm@9.4.2 
+RUN npm install chalk
 
 COPY . .
 
