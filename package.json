@@ -1,6 +1,6 @@
 {
-  "name": "QUEEN-ELISA-MD",
-  "version": "3.5.0",
+  "name": "QUEEN-NILU-MD",
+  "version": "3.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
   "scripts": {
