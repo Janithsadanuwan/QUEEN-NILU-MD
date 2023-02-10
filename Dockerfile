@@ -6,13 +6,12 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
-  rm -rf /var/lib/apt/lists/*
-  npm install chalk
+  
   
 
 COPY package.json .
 
-RUN npm install 
+RUN npm install chalk
 
 COPY . .
 
