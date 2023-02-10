@@ -45,7 +45,7 @@ global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://github.com//'
+global.BUTTON1_URL = 'https://github.com/janithsadanuwan/'
 //👇 Button 2 url
 global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
 //👇 Your Add Massage 
