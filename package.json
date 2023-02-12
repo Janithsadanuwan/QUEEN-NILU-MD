@@ -15,9 +15,10 @@
     "bot",
     "bot-md",
     "multi-device",
-    "dark-maker-ofc"
+    "Janithsadanuwan",
+    "QueenNilu"
   ],
-  "author": "MR-NIMA",
+  "author": "Janiya",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "hostinger-bot/baileys",
