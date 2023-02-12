@@ -59,7 +59,7 @@ global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'true'
 //👇 Menu imoji 
-global.MENU_IMOJI = '👸|ℹ️'
+global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
