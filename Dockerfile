@@ -16,3 +16,4 @@ RUN npm install chalk
 COPY . .
 
 CMD ["node", "."]
+ 
