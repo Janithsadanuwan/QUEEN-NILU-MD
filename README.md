@@ -29,11 +29,7 @@
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
-
-# 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
-<p align="left">
-<a href="https://github.com/Janithsadanuwan/QueenNilu/fork"><img align="center" src="https://te.legra.ph/file/a0d19ec253c4700b1e695.png" alt="Fork and deploy" height="35" width="155" /></a>
+## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/QueenNilu/fork)
 
 
 # 
