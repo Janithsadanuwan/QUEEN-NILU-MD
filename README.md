@@ -63,7 +63,7 @@ A very good bot that you can use in whatsapp.
 3. Uplode session.json file
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
-6. [ Watch Video]()
+6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
 # 
 # How to Update Bot 
 
@@ -102,4 +102,4 @@ THANAKS FOR USNING QUEEN nilu💃💖
 <h1>💃💖</h1> 
 <b>Thanks For</b> -
 
- [QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
+[QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
