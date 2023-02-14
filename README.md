@@ -69,13 +69,13 @@ A very good bot that you can use in whatsapp.
 
   RAILWAY & KOYEB USERS :
 
-01. Visit to your GitHub and open your Queen Amdi fork repo.
+01. Visit to your GitHub and open your Queen Nilu fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Now, automatically bot will update.
 
   LOCAL OR VPS USERS :  
-01. Visit to your GitHub and open your Queen Amdi fork repo.
+01. Visit to your GitHub and open your Queen Nilu fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Open command prompt and command git clone your_fork_url
@@ -83,7 +83,7 @@ A very good bot that you can use in whatsapp.
    
    
 
-01. Visit to your GitHub and open your Queen Amdi fork repo.
+01. Visit to your GitHub and open your Queen  Nilu fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
 03. Then, you will see green colour button as "Update branch". Click it.
 04. Connect to VPS and command git clone your_fork_url
