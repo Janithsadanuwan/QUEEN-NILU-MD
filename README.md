@@ -1,5 +1,5 @@
 <p align="center"> 
-<b>༺═════════[👸]══════════༻</b>
+<b>༺═════════[👸❤️]══════════༻</b>
 </p>
 <p align="center">
 <img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
@@ -95,11 +95,11 @@ THANAKS FOR USNING QUEEN nilu💃💖
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
-[🦄 Join Public Group 🦄](https://chat.whatsapp.com/)
+[💃 Join Public Group 💃](https://chat.whatsapp.com/)
 
 
 
-<h1>💗</h1> 
+<h1>💃💖</h1> 
 <b>Thanks For</b> -
 
  [QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
