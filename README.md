@@ -1,7 +1,7 @@
 <p align="center"> 
 <b>༺═════════[👸❤️]══════════༻</b>
 </p>
-<p align="center">
+<p align="center"> 
 <img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
 </p>
 <p align="center">
