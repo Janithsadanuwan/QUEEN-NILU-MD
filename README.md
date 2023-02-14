@@ -19,13 +19,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/QueenNilu/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Janithsadanuwan/QueenNilu/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
-#
 
-* ['WEBSITE'](https://www.janithsadanuwan.tech/QueenNilu)
+## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
 # 
 
-<b>Version --> 3.0.0</b>
+<b>Version --> 1.1.0</b>
 # 
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
@@ -61,10 +60,6 @@ A very good bot that you can use in whatsapp.
 
 ## [`WATCH YOUTUBE VIDEO`](https://youtu.be/4jnKUto3i3c)
 
-
-# 
-# 
-#
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
