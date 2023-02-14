@@ -35,7 +35,6 @@ __Note:__ if you're already sponsoring [husky](https://github.com/typicode/husky
 ## Features
 
 - __Lightweight__
-- __Minimalist__ and easy to learn API
 - Query and modify data using __plain JS__
 - Improved __TypeScript__ support
 - Atomic write
