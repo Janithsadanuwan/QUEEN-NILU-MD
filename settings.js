@@ -46,7 +46,7 @@ global.antilink =  'false'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🐼'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
