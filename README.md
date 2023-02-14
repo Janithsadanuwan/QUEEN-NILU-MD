@@ -68,7 +68,7 @@ A very good bot that you can use in whatsapp.
 # How to Update Bot 
 
 <p align="left">
-<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
 </p>
 
   RAILWAY & KOYEB USERS :
