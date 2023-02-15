@@ -41,13 +41,18 @@ A very good bot that you can use in whatsapp.
   if there any error please infrom it support group ✨
 # 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=FnnJ_C)
+['[Deploy on Railway'](https://railway.app?referralCode=FnnJ_C)
 
 [`Deploy on Koyeb`](https://app.koyeb.com/)
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
+['[Deploy On Heroku']((https://heroku.com/deploy?template=)
+
+['[Deploy On Uffizzi'](https://www.uffizzi.com/)
+
+['[Deploy On Replit'](https://replit.com/github/Janithsadanuwan/QueenNilu)
+
 
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
