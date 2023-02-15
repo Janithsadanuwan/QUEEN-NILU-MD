@@ -47,7 +47,7 @@ A very good bot that you can use in whatsapp.
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-['[Deploy On Heroku']((https://heroku.com/deploy?template=)
+['[Deploy On Heroku'](https://heroku.com/deploy?template=)
 
 ['[Deploy On Uffizzi'](https://www.uffizzi.com/)
 
