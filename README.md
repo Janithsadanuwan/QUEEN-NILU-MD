@@ -131,9 +131,9 @@ npm start
 
 ![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
 
-## THANKS FOR USING QUEEN NILU
+## THANKS FOR USING QUEEN NILU 💃
 
-## Thanks :
+## Thanks TO :
 @adiwajshing - For baileys Web Api <br>
 @nimesh-official - For Helps <br>
 @SamPandey001 - For Bot Base <br>
