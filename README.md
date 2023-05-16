@@ -41,7 +41,7 @@ A very good bot that you can use in whatsapp.
 <summary>ℹ️✨ How To Deploy Bot </summary>
 <p>
 
-# How to Update Bot 
+ 
 
   if there any error please infrom it support group ✨
 # 
@@ -99,6 +99,7 @@ A very good bot that you can use in whatsapp.
 05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
 # 
 # 
+</details>
 
 <details>
 <summary>ℹ️ How To Update Bot </summary>
