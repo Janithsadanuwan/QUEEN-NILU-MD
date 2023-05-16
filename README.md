@@ -23,19 +23,14 @@
 ### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/Janithsadanuwan)
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
-# 
 
-<b>Version --> 1.1.0</b>
-# 
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
+<b>Version --> 2.0.0</b>
 
-## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
+## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
-
-# 
-
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-NILU.janithsadanuwan.repl.co)
+## [`SCAN QR CODE`](https://QUEEN-NILU.janithsadanuwan.repl.co)
 
 <details>
 <summary>✨ How To Deploy Bot </summary>
