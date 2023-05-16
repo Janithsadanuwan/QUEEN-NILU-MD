@@ -2,10 +2,9 @@
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janith+sadanuwan" alt="Typing SVG" /></a>
 </p>
-        <b>༺═════════[👸❤️]══════════༻</b>
 
 <p align="center"> 
-<img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/gZ39kZ3/Whats-App-Image-2023-05-16-at-20-14-47-1.jpg" width="1280" height="720"/>
 </p>
 
 <p align="center">
