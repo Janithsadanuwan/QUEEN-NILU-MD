@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://i.ibb.co/12N6NwJ/Whats-App-Image-2023-05-16-at-20-44-55.jpg" />
+<img src="https://i.ibb.co/12N6NwJ/Whats-App-Image-2023-05-16-at-20-44-55.jpg" width="300" height="300"/>
 </p>
 
 <p align="center">
