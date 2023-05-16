@@ -134,8 +134,8 @@ npm start
 ## THANKS FOR USING QUEEN NILU
 
 ## Thanks :
-@adiwajshing - For baileys Web Api
-@nimesh-official - For Helps
-@SamPandey001 - For Bot Base
+@adiwajshing - For baileys Web Api <br>
+@nimesh-official - For Helps <br>
+@SamPandey001 - For Bot Base <br>
 
 & ALL
