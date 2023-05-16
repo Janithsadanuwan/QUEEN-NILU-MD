@@ -38,7 +38,7 @@ A very good bot that you can use in whatsapp.
 * [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-NILU.janithsadanuwan.repl.co)
 
 <details>
-<summary>ℹ✨ How To Deploy Bot </summary>
+<summary>✨ How To Deploy Bot </summary>
 <p>
 
  
