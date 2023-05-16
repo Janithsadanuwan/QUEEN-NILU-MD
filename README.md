@@ -19,13 +19,12 @@
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
+## [`Version 2.0.0`](https://www.janithsadanuwan.tech/QueenNilu)
+
 ### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
+
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
-
-Queen Nilu whatsapp bot is,
-A very good bot that you can use in whatsapp.
-<b>Version --> 2.0.0</b>
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
