@@ -11,7 +11,6 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Janithsadanuwan?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Janithsadanuwan/Queen-Nilu-Md?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Janithsadanuwan/Queen-Nilu-Md?label=Watchers&color=red&style=flat-square"></a>
@@ -20,7 +19,7 @@
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
-### Please Give One Star ✨ & [follow for me notify my updates](https://github.com/Janithsadanuwan)
+### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
 
