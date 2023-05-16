@@ -12,12 +12,12 @@
 </p>
 <p align="center">
 <a href="https://github.com/Janithsadanuwan?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/QueenNilu?color=white&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Janithsadanuwan/QueenNilu?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Janithsadanuwan/QueenNilu?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/QueenNilu/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Janithsadanuwan/QueenNilu/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
+<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Janithsadanuwan/Queen-Nilu-Md?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Janithsadanuwan/Queen-Nilu-Md?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
@@ -29,7 +29,7 @@
 Queen Nilu whatsapp bot is,
 A very good bot that you can use in whatsapp.
 
-## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/QueenNilu/fork)
+## [`Fork QueenNilu Repo`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
 
 # 
@@ -51,7 +51,7 @@ A very good bot that you can use in whatsapp.
 
 [`Deploy on uffizzi`](https://www.uffizzi.com/)
 
-[`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/QueenNilu)
+[`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/Queen-Nilu-Md)
 
 
 * 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
