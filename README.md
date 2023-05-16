@@ -5,7 +5,7 @@
 <img src="https://te.legra.ph/file/8be699bf71bfa93acac3f.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Queen+Nilu+Whatsapp+Multidevice+Bot+;Created+By+Janiya" alt="">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janith+sadanuwan" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
