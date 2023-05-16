@@ -1,6 +1,6 @@
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janith+sadanuwan" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janiya" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 
@@ -38,7 +38,7 @@ A very good bot that you can use in whatsapp.
 * [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-NILU.janithsadanuwan.repl.co)
 
 <details>
-<summary>ℹ️✨ How To Deploy Bot </summary>
+<summary>ℹ✨ How To Deploy Bot </summary>
 <p>
 
  
@@ -99,6 +99,24 @@ A very good bot that you can use in whatsapp.
 05. And it will update your files. Now, command cd QueenNilu && npm run pm-restart
 # 
 # 
+
+### [ DEPLY ON TERMUX ]
+ ```   
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Janithsadanuwan/Queen-Nilu-Md
+cd Queen-Nilu-Md
+npm install
+npm start
+```
 </details>
 
 <details>
@@ -117,9 +135,6 @@ THANAKS FOR USNING QUEEN nilu💃💖
 
 [💃 Join Public Group 💃](https://chat.whatsapp.com/)
 
+![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
 
-
-<h1>💃💖</h1> 
-<b>Thanks For</b> -
-
-[QUEENElisa](github.com/QueenElisa) for script ,@MRnima Thanks
+Thanks For @adiva
