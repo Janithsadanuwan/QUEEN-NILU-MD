@@ -37,7 +37,11 @@ A very good bot that you can use in whatsapp.
 
 * [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-NILU.janithsadanuwan.repl.co)
 
+<details>
+<summary>ℹ️✨ How To Deploy Bot </summary>
+<p>
 
+# How to Update Bot 
 
   if there any error please infrom it support group ✨
 # 
@@ -72,16 +76,6 @@ A very good bot that you can use in whatsapp.
 6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
 # 
 
-<details>
-<summary>ℹ️ How To Update Bot </summary>
-<p>
-
-# How to Update Bot 
-
-<p align="left">
-<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
-</p>
-</details>
   RAILWAY & KOYEB USERS :
 
 01. Visit to your GitHub and open your Queen Nilu fork repo.
@@ -106,6 +100,16 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 
+<details>
+<summary>ℹ️ How To Update Bot </summary>
+<p>
+
+# How to Update Bot 
+
+<p align="left">
+<img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
+</p>
+</details>
 THANAKS FOR USNING QUEEN nilu💃💖
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
