@@ -59,7 +59,7 @@ A very good bot that you can use in whatsapp.
 [`Deploy on Replit`](https://replit.com/github/Janithsadanuwan/Queen-Nilu-Md)
 
 
-* 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
+## 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
           https://heroku.com/deploy?template=
 
@@ -76,7 +76,7 @@ A very good bot that you can use in whatsapp.
 6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
 # 
 
-  RAILWAY & KOYEB USERS :
+ ## RAILWAY & KOYEB USERS :
 
 01. Visit to your GitHub and open your Queen Nilu fork repo.
 02. Under the green colour button as "Code" you will see "Sync fork" button. Click it.
@@ -100,7 +100,7 @@ A very good bot that you can use in whatsapp.
 # 
 # 
 
-### [ DEPLY ON TERMUX ]
+###  DEPLY ON TERMUX 
  ```   
 apt update
 apt upgrade
