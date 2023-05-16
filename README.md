@@ -123,7 +123,7 @@ npm start
 <img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
 </p>
 </details>
-THANAKS FOR USNING QUEEN nilu💃💖
+
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
@@ -131,4 +131,11 @@ THANAKS FOR USNING QUEEN nilu💃💖
 
 ![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
 
-Thanks For @adiva
+## THANKS FOR USING QUEEN NILU
+
+## Thanks :
+@adiwajshing - For baileys Web Api
+@nimesh-official - For Helps
+@SamPandey001 - For Bot Base
+
+& ALL
