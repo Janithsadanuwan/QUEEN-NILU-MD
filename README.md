@@ -71,12 +71,17 @@ A very good bot that you can use in whatsapp.
 5. Connect Your Repository to your web host site
 6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
 # 
+
+<details>
+<summary>ℹ️ How To Update Bot </summary>
+<p>
+
 # How to Update Bot 
 
 <p align="left">
 <img src="https://telegra.ph/file/6af1182fb6bf4b3a43e1d.jpg"/>
 </p>
-
+</details>
   RAILWAY & KOYEB USERS :
 
 01. Visit to your GitHub and open your Queen Nilu fork repo.
