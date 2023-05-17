@@ -3,6 +3,8 @@ RUN git clone https://github.com/Janithsadanuwan/QUEEN-NILU-MD /root/QUEEN-NILU-
 WORKDIR /root/QUEEN-NILU-MD/
 RUN npm install npm@latest
 
+RUN npm install ytdl-core@latest    
+
 RUN yarn install --network-concurrency 1
     ffmpeg \
 EXPOSE 8000
