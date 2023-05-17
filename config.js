@@ -39,8 +39,8 @@ module.exports = {
   BRANCH: 'main',
   ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || '',
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'OPENAI_KEY',
-  VERSION: process.env.VERSION === undefined ? 'v.2.0.0' : process.env.VERSION,
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE,
+  VERSION: process.env.VERSION === undefined ? 'v.2.0.0' : process.env.VERSION
 };
 
 
