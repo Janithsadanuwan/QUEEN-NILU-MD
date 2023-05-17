@@ -16,7 +16,7 @@ global.website = 'https://janithsadanuwan.tech/QueenNilu' //wa.me/+9100000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://graph.org/file/1b099040322e0649a9192.jpg'
 
 module.exports = {
-  LANG: process.env.THEME|| 'SI', //Change Language  EN- To English SI - TO Sinhala
+  LANG: process.env.THEME|| 'EN', //Change Language  EN- To English SI - TO Sinhala
   botname: process.env.BOT_NAME || 'Queen Nilu', //Bot Name
   alivelogo: process.env.ALIVE_LOGO || 'https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg', //Alive Logo
   ownername:process.env.OWNER_NAME || 'Jnaith sadanuwan',
