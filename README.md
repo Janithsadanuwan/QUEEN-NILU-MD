@@ -2,7 +2,7 @@
   <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janiya" alt="Typing SVG" /></a>
 </p>
-
+ 
 <p align="center"> 
 <img src="https://i.ibb.co/12N6NwJ/Whats-App-Image-2023-05-16-at-20-44-55.jpg" width="300" height="300"/>
 </p>
