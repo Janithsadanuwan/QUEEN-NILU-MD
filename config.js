@@ -10,9 +10,9 @@ global.email = 'Queennilu@gmail.com' // ur Email
 global.github = 'https://github.com/Jnaithsadanuwan/QUEEN-NILU-MD' //Github
 global.location = 'Kandy LK'
 global.gurl = 'https://instagram.com/janithsadanuwan' // add your username
-global.sudo = process.env.SUDO || '94767438882'
+global.sudo = process.env.SUDO || ''
 global.devs = '94767438882';
-global.website = 'https://janithsadanuwan.tech/QueenNilu' //wa.me/+91000000000000
+global.website = 'https://janithsadanuwan.tech/QueenNilu' 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://graph.org/file/1b099040322e0649a9192.jpg'
 
 module.exports = {
