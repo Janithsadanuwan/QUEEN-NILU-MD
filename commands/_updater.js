@@ -1,3 +1,27 @@
+/*
+
+░█▀▀█ ░█─░█ ░█▀▀▀ ░█▀▀▀ ░█▄─░█ 　 ░█▄─░█ ▀█▀ ░█─── ░█─░█ 　 ░█▀▄▀█ ░█▀▀▄ 
+░█─░█ ░█─░█ ░█▀▀▀ ░█▀▀▀ ░█░█░█ 　 ░█░█░█ ░█─ ░█─── ░█─░█ 　 ░█░█░█ ░█─░█ 
+─▀▀█▄ ─▀▄▄▀ ░█▄▄▄ ░█▄▄▄ ░█──▀█ 　 ░█──▀█ ▄█▄ ░█▄▄█ ─▀▄▄▀ 　 ░█──░█ ░█▄▄▀
+
+Whatsapp Bot  By @Janiya
+
+❥WHATSAPP - https://wa.me/94767438882
+
+❥SUPPORT - https://t.me/QueenNilu
+
+❥ YOUTUBE - https://youtube.com/c/Janithsadanuwan 
+
+❤️Thanks For All Helpers ❤️
+
+@nimesh-official - for Helps
+@adiwajshing -For Web Api
+
+
+*/
+
+
+
 function _0x4a52() {
     const _0x64dc37 = [
         '2219553vlAcgZ',
