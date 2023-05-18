@@ -23,7 +23,7 @@
 
 ## [`Version --> 2.0.0`](https://www.janithsadanuwan.tech/QueenNilu)
 
-## [`To Get Password watch viideo`]()
+## [`To Get Password watch this video`]()
 
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
