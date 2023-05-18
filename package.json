@@ -1,6 +1,6 @@
 {
                "name": "QueenNilu-Md",
-               "version": "2.0.0",
+               "version": "2.0.0", 
                "description": "Multi device whatsapp bot by Janiya.",
                "main": "lib/client.js",
                "type": "commonjs",

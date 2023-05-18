@@ -29,7 +29,7 @@
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
-## [`SCAN QR CODE`](https://QUEEN-NILU.janithsadanuwan.repl.co)
+## [`SCAN QR CODE`](https://replit.com/@Janithsadanuwan/Queen-Nilu-MD)
 
 <details>
 <summary>✨ How To Deploy Bot </summary>
