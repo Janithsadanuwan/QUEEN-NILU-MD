@@ -64,8 +64,8 @@
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
-2. Update [config.js]()
-3. Uplode session.json file
+2. Update [config.js](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/config.js)
+3. Update SESSION_ID 
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
 6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
