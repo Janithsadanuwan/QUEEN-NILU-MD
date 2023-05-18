@@ -63,7 +63,7 @@
 + DEPLOY STEPS
 # 
 1. Fork This Repository 
-2. Update [settings.js]()
+2. Update [config.js]()
 3. Uplode session.json file
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
