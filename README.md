@@ -17,12 +17,13 @@
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Janithsadanuwan/Queen-Nilu-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
-</p>
+</p> 
 
 ### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
 
 ## [`Version --> 2.0.0`](https://www.janithsadanuwan.tech/QueenNilu)
 
+## [`To Get Password watch viideo`]()
 
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
 
@@ -124,6 +125,7 @@ npm start
 </p>
 </details>
 
+## Thieves cannot copy or clone this repo 😂
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
