@@ -55,7 +55,7 @@
 
 ## 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
        
-          https://heroku.com/deploy?template=
+          https://heroku.com/deploy?template=https://github.com/Janithsadanuwan/QUEEN-NILU-MD
 
 
 ## [`WATCH YOUTUBE VIDEO`](https://youtu.be/4jnKUto3i3c)

@@ -10,13 +10,18 @@
     "description": "Name of Bot Owner",
         "value": "Your Name."
     },
+    "NILU_PASSWORD": {
+      "description": "To Get The password Watch the video ",
+          "value": "Password",
+          "required" :true
+      },
     "ALIVE_MESSAGE": {
       "description": "Alive message for bot",
        "required" :false
       },
      "THUMB_IMAGE": {
       "description": "THUMBNAIL for bot.",
-       "value": "https://github.com/SecktorBot/Brandimages/blob/main/SocialLogo%201.jpg?raw=true"
+       "value": "https://graph.org/file/1b099040322e0649a9192.jpg"
       },
       "ANTI_BAD_WORD": {
       "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -55,7 +60,8 @@
          "value": "919628516236"
     },
      "SESSION_ID": {
-      "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Janithsadanuwan/Queen-Nilu-MD "
+      "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Janithsadanuwan/Queen-Nilu-MD ",
+      "required":true
     },
       "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -68,11 +74,8 @@
          "required" :false
     },
     "MONGODB_URI": {
-      "description": "A secret String for Mongodb Connection.(Required)"
-    },
-      "THEME": {
-      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-       "value": "SECKTOR"
+      "description": "A secret String for Mongodb Connection.(Required)",
+      "required":true
     },
       "WORKTYPE": {
     "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
