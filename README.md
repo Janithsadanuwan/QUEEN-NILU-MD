@@ -4,7 +4,7 @@
 </p>
  
 <p align="center"> 
-<img src="https://i.ibb.co/12N6NwJ/Whats-App-Image-2023-05-16-at-20-44-55.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/1e63f0ee90304a12767c7.jpg" width="300" height="300"/>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
-## [`SCAN QR CODE`](https://replit.com/@Janithsadanuwan/Queen-Nilu-MD)
+## [`SCAN QR CODE`](https://www.janithsadanuwan.tech/QueenNilu/QrCode)
 
 <details>
 <summary>✨ How To Deploy Bot </summary>
@@ -58,8 +58,7 @@
        
           https://heroku.com/deploy?template=https://github.com/Janithsadanuwan/QUEEN-NILU-MD
 
-
-## [`WATCH YOUTUBE VIDEO`](https://youtu.be/4jnKUto3i3c)
+## [`WATCH YOUTUBE VIDEO`](https://youtu.be/)
 
 + DEPLOY STEPS
 # 
@@ -68,7 +67,7 @@
 3. Update SESSION_ID 
 4. Make acount on railway , heroku , mogenius or koyeb 
 5. Connect Your Repository to your web host site
-6. [ Watch Video](https://youtu.be/4jnKUto3i3c)
+6. [ Watch Video](https://youtu.be/)
 # 
 
  ## RAILWAY & KOYEB USERS :
@@ -125,19 +124,19 @@ npm start
 </p>
 </details>
 
-## Thieves cannot copy or clone this repo 😂
+## Canot cannot copy or clone this repo 😂
 
 [🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
 
-[💃 Join Public Group 💃](https://chat.whatsapp.com/)
+[💃 Join Public Group 💃]([https://chat.whatsapp.com/](https://chat.whatsapp.com/KT10WomWlnqLVm8iFL9aip))
 
-![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Janithsadanuwan/count.svg)
 
 ## THANKS FOR USING QUEEN NILU 💃
 
 ## Thanks TO :
 @adiwajshing - For baileys Web Api <br>
 @nimesh-official - For Helps <br>
-@SamPandey001 - For Bot Base <br>
-
+@vihangayt - For Helps <br>
+@ravindumanoj - For Helps
 & ALL
