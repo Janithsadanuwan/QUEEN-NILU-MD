@@ -8,7 +8,7 @@
         pkgs.neofetch
         pkgs.libwebp
         pkgs.speedtest-cli
-        pkgs.wget
+        pkgs.wget 
         pkgs.yarn
         pkgs.libuuid
     ];
