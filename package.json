@@ -3,7 +3,7 @@
     "version": "2.0.0",
     "description": "Multi device whatsapp bot.",
     "main": "index.js",
-    "type": "commonjs",
+    "type": "commonjs", 
     "license": "GPL-3.0",
   "scripts": {
      "start": "pm2 start index.js --deep-monitoring --attach --name NILU",
