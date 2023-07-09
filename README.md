@@ -23,7 +23,7 @@
 
 ## [`Version --> 2.0.0`](https://www.janithsadanuwan.tech/QueenNilu)
 
-### [ Password }()
+### [Password]()
  ```
 janith
 ```
