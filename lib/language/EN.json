@@ -1,0 +1,41 @@
+{
+    "_NILUJSON_": true,
+     "LANGUAGE": "English",
+     "LANGCODE": "EN",
+     "AUTHOR": "janiya",
+   
+   "STRINGS": {
+         "nilubot": {
+            "owner": "```This Command Only For Bot Owner```",
+             "COMMAND": "```Command```",
+             "DESC": "```Description```",
+             "EXAMPLE": "```Example```",
+             "BOT_ADMIN" : "```Give Group Admin To Bot```",
+             "NOT_FOUND": "```I couldnt find a command like this```",
+             "GROUP_ADMINS" : "```Commands related to group administration !!!```",
+             "GROUP_ONLY" : "```Commands related to  Group only !!!```",
+             "WARN": "Warn",
+             "STICKER_MAKING" : "*🐼 Creating your sticker...*",
+             "NOT_FOUND" : "*CAN/'T FINE ANYTHING* ❗",
+             "CONVER_TING" : "```Converting... 🤹‍♀️```",
+             "GET_PHOTO" : "```Your link is taking the photo...```",
+             "OWNER_REPORT" : "\n\nSuccessfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid",
+             "BLOCK" : "*⛔ Blocked user !*",
+             "UNBLOCK": "*✅ Unblock user !*",
+             "GROUP_NAME" : "*✅ Success chnage Group Name !*",
+             "GROUP_DES" : "*✅ Success Change Group description !*",
+             "KICK" : "```Remove from Group...```",
+             "ADD" : "```Add Group...```",
+             "PROMOTE" : "```Promote as Group admin```",
+             "DEMOTE" : "```Demote as Group member```",
+             "G_MUTE" : "```🔇 SUCCESS GROUP CLOSE```",
+             "G_UNMUTE" :"``` 🔊 SUCCESS GROUP OPEN ```",
+             "G_INFOON" :"*✅ SUCCESS CHANGE EDIT INFO OPEN.*",
+             "G_INFOOFF" : "*.✅ SUCCESS CHNAGE EDIT INFO CLOSE.*",
+             "DELETE": "*🐋💬 THIS MASSAGE IS NOT SEND BY BOT.*",
+             "BC_GC" : "*🐋💬 PLEASE GIVE ME A MASSAGE*\n",
+             "M_REPLY" :"```🐋💬 PLEASE REPLY MASSAGE.```",
+             "EXAMPLE" : "```🐋💬 EXAMPLE```"
+         }
+     }
+ }
