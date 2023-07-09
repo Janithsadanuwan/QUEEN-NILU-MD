@@ -38,9 +38,11 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
+global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link
+
 global.MAX_SIZE = '10000' // Bot Uloading Max size 
 
-global.ANTI_BAD = 'false' // Antibad (on = True , Off = False )
+global.ANTI_BAD = false // Antibad (on = True , Off = False )
 
 global.ONLY_GROUP = 'false' // Only group mode
 
@@ -52,7 +54,13 @@ global.TIMEZONE = 'Asia/Colombo'
 
 global.SEX_DL = 'true' // 18 + video dl
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/' // ur group link
+global.AUTO_STICKER = true
+
+global.AUTO_REPLY = true
+
+global.ANTI_BAD_ACTION = false
+
+global.GROUP_LINK = 'https://chat.whatsapp.com/' 
 
 
 module.exports = {
