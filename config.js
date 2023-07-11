@@ -12,7 +12,8 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;t2gm0B5C#S-7EOye8FcvdSLjFfn04tY2K6Jtk9DUzdfIuhfONXDY' // PUT your session ID BY scan QR 
+
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
