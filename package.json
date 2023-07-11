@@ -38,6 +38,7 @@
  "@sl-code-lords/si-subdl": "^1.1.1",
  "@sl-code-lords/esana-news": "^1.0.2",
  "@sl-code-lords/wabetainfo": "^1.2.0",
+ "crypto-js":"latest",
  "translatte": "^3.0.1",
  "pastebin-js": "latest",
  "pino": "^7.0.5",
