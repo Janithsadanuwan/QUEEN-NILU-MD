@@ -1,3 +1,36 @@
+/*
+██████╗  ██╗   ██╗ ███████╗ ███████╗ ███╗   ██╗
+██╔═══██╗ ██║   ██║ ██╔════╝ ██╔════╝ ████╗  ██║
+██║   ██║ ██║   ██║ █████╗   █████╗   ██╔██╗ ██║
+██║▄▄ ██║ ██║   ██║ ██╔══╝   ██╔══╝   ██║╚██╗██║
+╚██████╔╝ ╚██████╔╝ ███████╗ ███████╗ ██║ ╚████║
+ ╚══▀▀═╝   ╚═════╝  ╚══════╝ ╚══════╝ ╚═╝  ╚═══╝
+███╗   ██╗ ██╗ ██╗      ██╗   ██╗
+████╗  ██║ ██║ ██║      ██║   ██║
+██╔██╗ ██║ ██║ ██║      ██║   ██║
+██║╚██╗██║ ██║ ██║      ██║   ██║
+██║ ╚████║ ██║ ███████╗ ╚██████╔╝
+╚═╝  ╚═══╝ ╚═╝ ╚══════╝  ╚═════╝ 
+WHATSAPP BOT BY Janith sadanuwan 
+
+WHATSAPP - 94767438882
+SUPPORT GROUP - https://t.me/QueenNilu
+YOUTUBE - http://youtube.com/janithsadanuwan
+
+
+ℹ️ SPECIAL INFORMATION ℹ️
+
+Welcome to Queen Nilu Whatsapp Bot settings
+Information provided to you.
+If you use true or false
+true = if you want to do that task
+false = return if you don't want to do the task.
+When you change the ones inside the commas, change them correctly.
+If you are using Sex Video Downloader, you need to get permission from Bot Devoper. 
+
+
+*/
+
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
@@ -12,7 +45,7 @@ global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtu
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = 'QueenNilu;;;t2gm0B5C#S-7EOye8FcvdSLjFfn04tY2K6Jtk9DUzdfIuhfONXDY' // PUT your session ID BY scan QR 
+global.SESSION_ID = '' // PUT your session ID BY scan QR 
 
 
 
@@ -33,7 +66,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'EN' // Language (EN-  to english  ,  SI- to sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
@@ -61,8 +94,7 @@ global.AUTO_REPLY = true
 
 global.ANTI_BAD_ACTION = false
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/' 
-
+global.GROUP_LINK = '' 
 
 module.exports = {
 
