@@ -41,19 +41,19 @@ function convertToBool(text, fault = 'true') {
 /*
 TO GET PASSWORD WATCH THIS =>
 */
-global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtube.com/
+global.PASSWORD = 'tharindu'  // Put The Password Get From Yt video  https://youtube.com/
 
 // PUT YOUR SESSION ID HERE 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;9iBwVQCa#d7ewEwej6D53VbWqtE4fJ3HwcZHq6ZuGfdmXr05KyYo' // PUT your session ID BY scan QR 
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94763776752'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'tharindu_X'
 
 global.OPENAI_API_KEY = "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"
 
@@ -64,7 +64,7 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@tharindu 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  to english  ,  SI- to sinhala )
 
@@ -72,7 +72,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link
+global.ALIVELOGO = 'https://telegra.ph/file/12a513d8ce1af168af0de.jpg' // Set Alive Logo link
 
 global.MAX_SIZE = '10000' // Bot Uloading Max size 
 
@@ -82,7 +82,7 @@ global.ONLY_GROUP = 'false' // Only group mode
 
 global.INBOX_BLOCK = 'off'  // TO Inbox Block On put "on"
 
-global.ANTI_LINK = 'false' //Anti Bad (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Bad (on = True , Off = False )
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -92,7 +92,7 @@ global.AUTO_STICKER = true
 
 global.AUTO_REPLY = true
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.GROUP_LINK = '' 
 
