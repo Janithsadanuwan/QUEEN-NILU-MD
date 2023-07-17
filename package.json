@@ -12,7 +12,7 @@
     },
  "repository": {
  "type": "git",
- "url": "git+https://github.com/Dragonxjanith/QUEEN-NILU-BETA-V2.git"
+ "url": "git+https://github.com/anithsadanuwan/QUEEN-NILU-MD.git"
  },
  "keywords": [
  "whatsapp",
@@ -27,7 +27,7 @@
  ],
  "author": "Janith sadanuwan",
  "developer": "Janith sadanuwan",
- "homepage": "https://github.com/Dragonxjanith/QUEEN-NILU-BETA-V2",
+ "homepage": "https://github.com/anithsadanuwan/QUEEN-NILU-MD",
  "dependencies": {
  "@adiwajshing/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
  "@adiwajshing/keyed-db": "^0.2.4",
@@ -38,7 +38,7 @@
  "@sl-code-lords/si-subdl": "^1.1.1",
  "@sl-code-lords/esana-news": "^1.0.2",
  "@sl-code-lords/wabetainfo": "^1.2.0",
- "crypto-js":"latest",
+ "chalk": "^4.1.2",
  "translatte": "^3.0.1",
  "pastebin-js": "latest",
  "pino": "^7.0.5",
