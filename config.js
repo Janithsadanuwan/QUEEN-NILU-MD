@@ -41,6 +41,7 @@ function convertToBool(text, fault = 'true') {
 /*
 TO GET PASSWORD WATCH THIS =>
 */
+// DONT CHANGE THIS 
 global.PASSWORD = 'janith'  // Put The Password Get From Yt video  https://youtube.com/
 
 // PUT YOUR SESSION ID HERE 
