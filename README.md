@@ -33,7 +33,7 @@
 
 ## [`Get POSTGRESQ URL`](https://dashboard.render.com/new/database)
 
-## [`HOW TO DEPLOY`](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/Janithsadanuwan/QUEEN-NILU-MD/DEPLOY)
+## [`HOW TO DEPLOY`](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/DEPLOY/README.md)
 
 
 
