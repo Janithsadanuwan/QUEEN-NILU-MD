@@ -47,7 +47,7 @@ global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
