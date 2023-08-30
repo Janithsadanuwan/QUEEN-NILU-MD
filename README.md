@@ -40,10 +40,6 @@
 
 ## Canot cannot copy or clone this repo 😂
 
-[🧑‍💻 Join Queen Nilu Support Group 🧑‍💻](https://t.me/QueenNilu)
-
-[💃 Join Public Group 💃]([https://chat.whatsapp.com/](https://chat.whatsapp.com/KT10WomWlnqLVm8iFL9aip))
-
-![Visitor Count](https://profile-counter.glitch.me/Janithsadanuwan/count.svg)
-
+***[JOIN ACCOUNCEMENT GROUP](https://chat.whatsapp.com/LVn5DG2V3UwBY5IDlG58kH)***
+***[JOIN PUBLIC GROUP](https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH)***
 ## THANKS FOR USING QUEEN NILU 💃
