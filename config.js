@@ -20,7 +20,7 @@ global.SESSION_ID = '' // PUT your session ID BY scan QR
 global.POSTGRESQL_URL = ''
 
 
-global.FOOTER = 'Queen Nilu 2023 '
+
 // ⚙️ OWNER SETTINGS  ⚙️
 
 global.OWNER_NUMBER = '94767438882'
@@ -47,6 +47,8 @@ global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
+global.FOOTER = 'Queen Nilu 2023 '
+
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
@@ -67,7 +69,7 @@ global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
-global.ONLY_GROUP = 'true' // Only group mode
+global.ONLY_GROUP = 'false' // Only group mode
 
 global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
 
