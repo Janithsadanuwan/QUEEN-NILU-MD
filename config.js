@@ -59,9 +59,9 @@ global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Al
 
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
-global.MAX_SIZE = '200' // Bot Uloading Max size 
+global.MAX_SIZE = '400' // Bot Uloading Max size 
 
-global.ANTI_BAD = false // Antibad (on = True , Off = False )
+global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = false
 
@@ -69,14 +69,14 @@ global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
-global.ONLY_GROUP = 'ture' // Only group mode
+global.ONLY_GROUP = 'false' // Only group mode
 
 global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
 
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'true' // 18 + video dl
+global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
