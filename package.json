@@ -68,7 +68,7 @@
   "api-dylux": "latest",
   "mfiredlcore-vihangayt": "^1.0.0",
   "path": "^0.12.7",
-  "youtubedl-core": "^4.11.7",
+  "youtubedl-core": "github:Janithsadanuwan/QueenNilu-Ytdl#main",
   "child_process": "^1.0.2",
   "form-data": "^4.0.0",
   "node-fetch": "^2.6.1" ,
