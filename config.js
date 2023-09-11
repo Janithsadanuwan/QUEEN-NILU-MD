@@ -1,4 +1,4 @@
-/*
+hi/*
 WHATSAPP BOT BY Janith sadanuwan 
 WHATSAPP - 94767438882
 SUPPORT GROUP - https://t.me/QueenNilu
@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;MiwlhKKT#TeBt_-Nw5ryYmYlZ5_Oz2jZ0Qr3A-HIre5QXUEwvV6s' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,15 +23,15 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '917059102517'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '༄℣ɪᴘ᭄░S░A░G░A░R࿐♥️✨💫X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,11 +41,11 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ sagsr'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '༄℣ɪᴘ᭄░S░A░G░A░R࿐♥️✨💫 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
