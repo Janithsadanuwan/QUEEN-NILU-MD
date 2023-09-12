@@ -1,6 +1,6 @@
 {
     "name": "QUEEN-NILU-MD",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Multi device whatsapp bot.",
     "main": "index.js",
     "type": "commonjs",
