@@ -29,7 +29,7 @@
   "developer": "Janith sadanuwan",
   "homepage": "https://github.com/anithsadanuwan/QUEEN-NILU-MD",
   "dependencies": {
-  "@WhiskeySockets/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
+  "@whiskeysockets/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
   "@adiwajshing/keyed-db": "^0.2.4",
   "@bochilteam/scraper": "^4.0.22-alpha.0",
   "@ffmpeg-installer/ffmpeg" : "^1.1.0",
