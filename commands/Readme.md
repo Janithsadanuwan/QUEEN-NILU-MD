@@ -1,13 +1,13 @@
-💃 𝘘𝘜𝘌𝘌𝘕 𝘕𝘐𝘓𝘜 💃
+😈 °𝔟𝔩𝔞𝔠𝔨𝔭𝔦𝔫𝔨_𝔡𝔢𝔪𝔬𝔫° 😈
 
 
-Whatsapp Bot  By @Janiya
+Whatsapp Bot  By @LordeVraps
 
-❥WHATSAPP - https://wa.me/94767438882
+❥WHATSAPP - https://wa.me/27670821076
 
-❥SUPPORT - https://t.me/QueenNilu
+❥SUPPORT - https://t.me/°𝔟𝔩𝔞𝔠𝔨𝔭𝔦𝔫𝔨_𝔡𝔢𝔪𝔬𝔫°
 
-❥ YOUTUBE - https://youtube.com/c/Janithsadanuwan 
+❥ YOUTUBE - https://youtube.com/c/xxxtentacion 
 
 ❤️Thanks For All Helpers ❤️
 
