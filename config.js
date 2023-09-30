@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;Z6JHVAAC#1vbF2drSLtrEp90nQ9AeWSKJiFa-lXAsJVa3xVErPQQ' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://shemira_sandaneth_user:tJsshvKSIM4yhbQXsyEHih0rexsfOTua@dpg-ckapmg9kms5s73fdog70-a.frankfurt-postgres.render.com/shemira_sandaneth'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94711612565'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'SANDANETH_MD_w. A. BOT'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,13 +41,13 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'SANDANETH_MD_W. A._BOT'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = 'SANDANETH_MD_W. A._BOT 🤹‍♂️' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = ' 'SANDANETH_MD_W. A._BOT
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -55,9 +55,20 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/a7c03bea0d3922f702ae1.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'default' // Set Alive Message
+global.ALIVE_MESSAGE = 'HEY IM ALIVE NOW💖
+
+24/7 Hour working bot
+
+Join our grp
+
+https://chat.whatsapp.com/C4jFTb6OtlM5kLr75llDTW
+
+. menu
+My command list👍
+
+Typ' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
 
