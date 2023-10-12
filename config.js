@@ -14,24 +14,26 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;574FgL5a#IvWMAUIF1wQrrZ6EoIqZPVTBOUSlP5Y1v2EUcT8Veyc' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = '
+postgres://sachi_user:mtcNLHMy4h9oTPUhmZHkXiPgS4Hufdbs@dpg-ck0bdqb6fquc73a4nomg-a.frankfurt-postgres.render.com/sachi'
+'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94762944323'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ᴀꜱʜᴇɴ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
