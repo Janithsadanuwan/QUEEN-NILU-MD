@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;574FgL5a#IvWMAUIF1wQrrZ6EoIqZPVTBOUSlP5Y1v2EUcT8Veyc' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;F3x2jSIT#suN2w2wf9puOroq1lhsXJVCZBuankH56XAqKFdhx_PI' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = '
@@ -25,7 +25,7 @@ postgres://sachi_user:mtcNLHMy4h9oTPUhmZHkXiPgS4Hufdbs@dpg-ck0bdqb6fquc73a4nomg-
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94762944323'
+global.OWNER_NUMBER = '94760007746'
 
 global.OWNER_NAME = 'ᴀꜱʜᴇɴ'
 
