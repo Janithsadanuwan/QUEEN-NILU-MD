@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 13342464346
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '13342464346'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Anand_Modi'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'Anand Modi'
 
 global.FOOTER = 'Queen Nilu 2023'
 
