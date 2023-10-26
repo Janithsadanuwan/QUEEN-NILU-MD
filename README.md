@@ -21,7 +21,7 @@
 
 ### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
 
-## [`Version --> 2.0.5`](https://www.janithsadanuwan.tech/QueenNilu)
+## [`Version --> 2.0.6`](https://www.janithsadanuwan.tech/QueenNilu)
 
 
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)

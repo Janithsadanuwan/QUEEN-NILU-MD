@@ -19,7 +19,7 @@ global.SESSION_ID = '' // PUT your session ID BY scan QR
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
 
-
+ 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
