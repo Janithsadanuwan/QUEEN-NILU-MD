@@ -1,6 +1,6 @@
 {
    "name": "QUEEN-NILU-MD",
-   "version": "2.0.6",
+   "version": "2.0.7",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",
@@ -61,7 +61,7 @@
  "file_size_url": "^1.0.4",
  "dotenv": "^16.0.0",
  "cheerio": "^1.0.0-rc.12",
- "file-type": "^16.5.3",
+ "file-type": "^16.5.3", 
  "chatgpt": "^5.2.5",
  "fs-extra": "^11.1.0",
  "mongoose": "^6.2.1",
@@ -88,6 +88,7 @@
  "simple-find-lyrics": "^0.0.1",
  "youtubedl-core": "github:Janithsadanuwan/QueenNilu-Ytdl#main",
  "snapsave" : "github:Janithsadanuwan/Snapsave#main",
- "postgres_dbm" : "^1.1.0"
+ "postgres_dbm" : "^1.1.0",
+ "systeminformation" : "^5.21.11"
  }
  }
