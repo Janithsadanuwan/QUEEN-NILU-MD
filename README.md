@@ -29,7 +29,7 @@
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
-## [`SCAN QR CODE`](https://www.janithsadanuwan.tech/QueenNilu/QrCode)
+## [`SCAN QR CODE`](https://replit.com/@Janithsadanuwan/QUEEN-NILU-MD?v=1)
 
 ## [`Get POSTGRESQL URL`](https://dashboard.render.com/new/database)
 
