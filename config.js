@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;Ry1WyI6C#lDe2_cg3LM5ltgOgBiTeBTUYTCypYuiHyO-EurHzdGY' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://chamika_user:zeZTAdtKAwfs8lZO3s4fzMBD7RgVkHii@dpg-clvbccud3nmc738b57m0-a.frankfurt-postgres.render.com/chamika'
 
  
 
@@ -49,7 +49,7 @@ global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
-global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
+global.LANG = 'SI' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
