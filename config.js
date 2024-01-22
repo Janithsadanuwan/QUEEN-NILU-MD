@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '255612851692'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Barozi wa masela'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -63,7 +63,7 @@ global.MAX_SIZE = '500' // Bot Uloading Max size
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
