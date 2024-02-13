@@ -31,7 +31,7 @@
 
 ## [`SCAN QR CODE`](https://replit.com/@Janithsadanuwan/QUEEN-NILU-MD?v=1)
 
-## [`Get POSTGRESQL URL`](https://dashboard.render.com/new/database)
+## [`Get POSTGRESQL URL`](postgres://janiru_anjana_user:yfprXsNaeGbx17F06JjKIHki9tNYQD2d@dpg-cn5m5umn7f5s738ivurg-a/janiru_anjana)
 
 ## [`HOW TO DEPLOY`](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/DEPLOY/README.md)
 
