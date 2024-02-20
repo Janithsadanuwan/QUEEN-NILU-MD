@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 994401885824
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '994401885824'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -43,17 +43,17 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'Queen Nilu 2024'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@karma 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2024' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
+global.ytname = "YT: karma" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
 global.location = "Srilanka, colombo" //ur location
